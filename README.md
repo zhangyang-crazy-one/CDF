@@ -4,6 +4,14 @@ CDF 是一个离线优先的桌面端 Agent 开发工作站。它基于 Electron
 
 项目目标是提供一个本地化的 Master Agent 工作台：开发者描述需求，Master Agent 负责理解目标、编排流程、调用已配置的 MCP 与 Skills，并在桌面应用中交付执行结果。
 
+## 下载
+
+最新版本：**v0.1.1**（[Release 页面](https://github.com/suntianc/CDF/releases/tag/v0.1.1)）
+
+支持 macOS（Intel + Apple Silicon）、Windows（x64 + arm64）、Linux（x64 + arm64）。
+
+完整功能列表与更新记录见 [CHANGELOG.md](./CHANGELOG.md)。
+
 ## 核心特性
 
 - **自然语言驱动开发**：通过对话描述需求，由 Master Agent 统筹任务执行。
